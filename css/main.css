@@ -1,0 +1,36 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.jumbotron {
+    padding: 30px 15px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: lightgrey;
+}
+
+.navbar-inverse {
+    background-color: #fff !important;
+    background-image: none;
+    border-color: transparent;
+}
+
+.af {
+  max-width: 50%;
+}
+
+
+
+
+.navbar-brand {
+  padding: 15px 15px;
+}
+
+
+
+
+
+
+
+
