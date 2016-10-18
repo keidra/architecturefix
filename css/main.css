@@ -20,6 +20,17 @@ body {
   font-size: 2rem;
 }
  
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: none;
+}
+
+.navbar-default {
+  box-shadow: none;
+}
+
 li {
   font-size: 1em;
 } 
@@ -62,9 +73,24 @@ li {
   margin: 0 auto;
 }
 
+@media (max-width: 1300px) {
+    .title {
+        display: none !important;
+    }
+}
 
 
 
+.foot {
+  text-align: center;
+  font-size: 1em;
+}
 
+.photo {
+  margin-top: 25px;
+}
 
+.line {
+  border-right: 1px solid rgba(177, 176, 176, 0.15);
+}
 
