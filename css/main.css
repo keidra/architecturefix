@@ -1,36 +1,67 @@
-body {
-  padding-top: 50px;
-  padding-bottom: 20px;
-}
-
-.jumbotron {
-    padding: 30px 15px;
-    margin-bottom: 30px;
-    color: inherit;
-    background-color: lightgrey;
-}
-
-.navbar-inverse {
-    background-color: #fff !important;
-    background-image: none;
-    border-color: transparent;
-}
-
-.af {
-  max-width: 50%;
-  margin-top: -50px;
-}
-
-
-.navbar-brand {
-  padding: 15px 15px;
-  font-family: Disco;
-}
-
 @font-face {
     font-family: Disco;
     src: url(../fonts/DISCO.ttf);
 }
+
+body {
+  font-family: Disco;
+}
+
+/* NAVBAR */
+
+.navbar-inverse {
+    background-color: #fbfbfb !important;
+    background-image: none;
+    border-color: transparent;
+}
+
+.navbar-brand {
+  padding: 15px 15px;
+  font-size: 2rem;
+}
+ 
+li {
+  font-size: 1em;
+} 
+
+/* JUMBOTRON */
+
+.head {
+    padding: 30px 15px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: transparent;
+}
+
+.banner {
+    padding: 15px;
+    margin: 0 auto;
+    color: inherit;
+    background-color: #ebebeb;
+}
+/*
+.af {
+  max-width: 50%;
+  margin-top: -50px;
+}*/
+
+.curate {
+  text-align: center;
+  font-size: 4em;
+}
+
+.info {
+  text-align: center;
+  font-size: 1.2em;
+  margin-top: auto;
+  padding-top: 10px;
+}
+
+.gallery {
+  padding: 15px;
+  margin: 0 auto;
+}
+
 
 
 
