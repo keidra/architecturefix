@@ -1,0 +1,25 @@
+
+/* NAVBAR */
+
+.navbar-inverse {
+    background-color: #fbfbfb !important;
+    background-image: none;
+    border-color: transparent;
+}
+
+.navbar-brand {
+  padding: 15px 15px;
+  font-size: 1.2em;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #c4c4c4;
+}
+
+.navbar-default .navbar-toggle {
+  border-color: transparent; 
+}
+ 
+li {
+  font-size: 1em;
+} 

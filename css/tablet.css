@@ -1,0 +1,16 @@
+/* NAVBAR */
+
+.navbar-inverse {
+    background-color: #fbfbfb !important;
+    background-image: none;
+    border-color: transparent;
+}
+
+.navbar-brand {
+  padding: 15px 15px;
+  font-size: 2rem;
+}
+ 
+li {
+  font-size: 1em;
+} 
