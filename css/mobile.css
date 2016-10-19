@@ -78,7 +78,7 @@ li {
 }
 
 .head {
-    padding: 30px 15px 60px;
+    padding: 30px 15px 30px;
     color: inherit;
     background-color: transparent;
 }
@@ -88,29 +88,7 @@ li {
   font-size: 0.8em;
 }
 
-span.text-content {
-    background: rgba(255, 255, 255, 0.85);
-    color: black;
-    cursor: pointer;
-    display: table;
-    height: 217px;
-    left: 15px;
-    position: absolute;
-    top: 0;
-    width: 345px;
-    opacity: 0;
-    -webkit-transition: opacity 500ms;
-    -moz-transition: opacity 500ms;
-    -o-transition: opacity 500ms;
-    transition: opacity 500ms;
-}
-
-span.text-content span {
-  display: table-cell;
-  text-align: center;
-  vertical-align: middle;
-}
-
-.title span.text-content:hover {
-  opacity: 1;
+.curateimg {
+    max-width: 90%;
+    margin: 0 auto;
 }

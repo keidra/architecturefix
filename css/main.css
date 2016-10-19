@@ -73,7 +73,7 @@ li {
   margin: 0 auto;
 }
 
-@media (max-width: 1300px) {
+@media screen and (min-width: 768px) and (max-width: 1300px){
     .title {
         display: none !important;
     }
@@ -94,3 +94,7 @@ li {
   border-right: 1px solid rgba(177, 176, 176, 0.15);
 }
 
+.curateimg {
+  max-width: 35%;
+  margin: 0 auto;
+}
