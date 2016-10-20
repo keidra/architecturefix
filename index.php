@@ -36,61 +36,8 @@
       </div>
     </div>
 
-    <!-- JUMBOTRON - Gallery -->
-
-    <div class="jumbotron banner col-sm-4 col-md-12 col-lg-12">
-      <div class="container">
-      <div class="row">
-        <div class="col-md-4 ">
-          <h2 class="info">architecture</h2>
-        </div>
-       <div class="col-md-4">
-          <h2 class="info">interior design</h2>
-        </div>
-        <div class="col-md-4">
-          <h2 class="info">landscape design</h2>
-        </div>
-      </div>
-
-      </div>
-    </div>
-
-    <div class="container">
-      <div class="row">
-        <div class="col-md-4 photo line">
-        <div class="jumbotron title">
-        <div class="headings col-sm-4 col-md-12 col-lg-12">
-        <div class="col-md-4">
-          <h2 class="info">architecture</h2>
-        </div>
-        </div>
-        </div>
-          <img class="img-responsive" src="img/a2.png">
-        </div>
-
-       <div class="col-md-4 photo line sr-contact">
-       <div class="jumbotron title sub">
-        <div class="headings col-sm-4 col-md-12 col-lg-12">
-        <div class="col-md-4">
-          <h2 class="info">interior design</h2>
-        </div>
-        </div>
-        </div>
-          <img class="img-responsive" src="img/i1.png">
-        </div>
-
-        <div class="col-md-4 photo">
-        <div class="jumbotron title sub">
-        <div class="headings col-sm-4 col-md-12 col-lg-12">
-        <div class="col-md-4">
-          <h2 class="info">landscape design</h2>
-        </div>
-        </div>
-        </div>
-          <img class="img-responsive" src="img/land.jpg">
-        </div>
-
-
+    
+    <?php include("photos.php"); ?>
 
 
       </div>
@@ -98,10 +45,7 @@
       <footer>
         <p class="foot">&copy; ARCHITECTURE FIX 2016</p>
       </footer>
-    </div> 
-
-    <!-- /container -->        
- 
+    </div>    
 
 <!-- SCRIPTS -->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.js"></script>
