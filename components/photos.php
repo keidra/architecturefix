@@ -1,4 +1,4 @@
-<div class="jumbotron banner col-sm-12 col-md-12 col-lg-12">
+<div class="jumbotron banner col-sm-4 col-md-12 col-lg-12">
   <div class="container">
     <div class="row">
       <div class="col-md-4">
