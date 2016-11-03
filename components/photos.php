@@ -106,7 +106,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <button aria-label="Close" class="close" data-dismiss="modal" type="button"><span aria-hidden="true">&times;</span></button>
-        <h2 class="modal-title" id="gridSystemModalLabel">Villa Kavel 1</h2>
+        <h2 class="modal-title" id="gridSystemModalLabel">Mill No. 9 Loft</h2>
       </div>
       <div class="modal-body">
         <div class="row">
@@ -115,10 +115,9 @@
             <hr class="modal-line">
           </div>
           <div class="col-md-12 modal-info">
-            <h3 class="modal-text">Location: Amsterdam, Netherlands</h3>
-            <h3 class="modal-text">Architect: <a class="links" href="http://www.studioninedots.nl/" target="_blank">Studioninedots</a></h3>
-            <h3 class="modal-text">Photo: <a class="links" href="http://www.petercuypers.nl/" target="_blank">Peter Cuypers</a></h3>
-            <h3 class="modal-text"><a class="links" href="http://www.studioninedots.nl/projects/161_kavel1" target="_blank">View Project</a></h3>
+            <h3 class="modal-text">Location: Indianapolis, Indiana</h3>
+            <h3 class="modal-text">Architect: <a class="links" href="http://www.levelinterior.com/" target="_blank">LEVEL interior architecture + design</a></h3>
+            <h3 class="modal-text"><a class="links" href="http://www.levelinterior.com/index2.php#!/3/featured/Mill_No._9_Loft/54" target="_blank">View Project</a></h3>
           </div>
         </div>
       </div>
@@ -134,7 +133,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <button aria-label="Close" class="close" data-dismiss="modal" type="button"><span aria-hidden="true">&times;</span></button>
-        <h2 class="modal-title" id="gridSystemModalLabel">Villa Kavel 1</h2>
+        <h2 class="modal-title" id="gridSystemModalLabel">Thigpen Residence</h2>
       </div>
       <div class="modal-body">
         <div class="row">
@@ -143,10 +142,10 @@
             <hr class="modal-line">
           </div>
           <div class="col-md-12 modal-info">
-            <h3 class="modal-text">Location: Amsterdam, Netherlands</h3>
-            <h3 class="modal-text">Architect: <a class="links" href="http://www.studioninedots.nl/" target="_blank">Studioninedots</a></h3>
-            <h3 class="modal-text">Photo: <a class="links" href="http://www.petercuypers.nl/" target="_blank">Peter Cuypers</a></h3>
-            <h3 class="modal-text"><a class="links" href="http://www.studioninedots.nl/projects/161_kavel1" target="_blank">View Project</a></h3>
+            <h3 class="modal-text">Location: California</h3>
+            <h3 class="modal-text">Designer: <a class="links" href="http://www.houzz.com/pro/plumshire09/chris-corbett-design" target="_blank">Chris Corbett Design</a></h3>
+            <h3 class="modal-text">Photo: <a class="links" href="http://axiomphoto.com/" target="_blank">Neil Michael - Axiom Photography</a></h3>
+            <h3 class="modal-text"><a class="links" href="http://www.houzz.com/projects/565126/thigpen-residence" target="_blank">View Project</a></h3>
           </div>
         </div>
       </div>
