@@ -15,3 +15,37 @@ li {
   font-size: 1em;
 } 
 
+/* MODALS */
+
+.imgsize {
+    max-width: 105.3% !important;
+    margin-left: -15px;
+}
+
+.links {
+  text-decoration: none;
+  color: #777;
+}
+
+.modal-content {
+    position: relative;
+    background-color: #fff;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    border: 1px solid #999;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: 0px;
+    outline: 0;
+    -webkit-box-shadow: 0 3px 9px rgba(0,0,0,.5);
+    box-shadow: 0 3px 9px rgba(0,0,0,.5);
+    margin-top: 159px;
+  }
+
+  .modal-line {
+    width: 598px;
+    margin-left: -15px;
+}
+
+.modal-info {
+     margin-top: none; 
+}

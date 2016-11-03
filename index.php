@@ -10,7 +10,9 @@
     <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
     <title>ArchitectureFix</title>
     <meta content="" name="description">
-    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport"><!-- STYLESHEETS -->
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+
+    <!-- STYLESHEETS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/bootstrap-theme.min.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">
